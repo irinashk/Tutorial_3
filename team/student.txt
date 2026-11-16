@@ -1,0 +1,3 @@
+name: Irina
+start: 81
+minutes: 9.78
